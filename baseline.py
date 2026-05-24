@@ -12,6 +12,8 @@ Version 1.0 - Lacks commenting (To implement).
 #%cd /kaggle/input/models/andrmorgado/main34/pytorch/main34/1
 #Change to current directory
 
+#Note: Psycholinguistic is imported but not used to classify personality in the baseline model.
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
