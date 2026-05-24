@@ -1,0 +1,11 @@
+===============================================================
+			Disclaimer
+===============================================================
+
+Psycholinguistic Functions and Data adapted from the source code of the following paper:
+Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features, Yash Mehta et al., 2020
+DOI: 10.1109/ICDM50108.2020.00146
+
+https://github.com/yashsmehta/personality-prediction (subject to the MIT License)
+
+Due to the fact LWIC features require a paid licensed Software owned by Pennebaker Conglomerates, Inc. the code for obtaining these features was not shared by Mehta. Therefore, the features present in "../Data/Kaggle/kaggle_mairesse_labeled.arff" are assumed to be correct, and used "as is".  
